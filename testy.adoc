@@ -122,4 +122,4 @@ stem:[b]: Apple продает яблоки — stem:[false]
 
 stem:[a ^^ b]: Apple продает смартфоны и яблоки — stem:[false]
 
-Пусть stem:[X=5]
+Пусть stem:[X=5]///
